@@ -84,8 +84,8 @@ To test the tasks, follow these steps:
 
 ### 🧮 Task1: Arithmetic Operations
 
-#### 🔹 Input:
-![Task1 Input](images/task_1_input.png)
+#### 🔹 Code:
+![Task1 Input](images/task-1-input.png)
 
 #### 🔹 Output:
 ![Task1 Output](images/task_1_output.png)
@@ -94,7 +94,7 @@ To test the tasks, follow these steps:
 
 ### 🙋‍♂️ Task2: Personalized Greeting
 
-#### 🔹 Input:
+#### 🔹 Code:
 ![Task2 Input](images/task_2_input.png)
 
 #### 🔹 Output:
