@@ -36,9 +36,15 @@ In this project, you will find two Python files: `Task1.py` and `Task2.py`. `Tas
 -------------------------
 
 ```
-Task2.py
-Task1.py
-README.md
+📦 Interactive-Python-Project
+├── Task1.py
+├── Task2.py
+├── README.md
+└── images
+    ├── task1_input.png
+    ├── task1_output.png
+    ├── task2_input.png
+    └── task2_output.png
 ```
 
 * `Task2.py` and `Task1.py` contain the Python code for the two tasks.
@@ -72,12 +78,27 @@ To test the tasks, follow these steps:
 1. Run the Python files using the commands `python Task1.py` and `python Task2.py`.
 2. Follow the prompts and input your own values to see the results.
 3. Verify that the output is correct and the program runs as expected.
-
-**📸 Screenshots**
+## 📸 Screenshots**
 ----------------
 
-[placeholder screenshots]
 
+### 🧮 Task1: Arithmetic Operations
+
+#### 🔹 Input:
+![Task1 Input](images/task_1_input.png)
+
+#### 🔹 Output:
+![Task1 Output](images/task_1_output.png)
+
+---
+
+### 🙋‍♂️ Task2: Personalized Greeting
+
+#### 🔹 Input:
+![Task2 Input](images/task_2_input.png)
+
+#### 🔹 Output:
+![Task2 Output](images/task_2_output.png)
 **📦 API Reference**
 -------------------
 
