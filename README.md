@@ -83,13 +83,12 @@ To test the tasks, follow these steps:
 
 Since this is a simple Python project, there is no API reference.
 
-**👤 Author**
-------------
+### 👤 Author
 
-* Name: [Abhishek Thakur]
-* Email: [abhishekthakur202398@gmail.com]
-* GitHub: [Your GitHub Profile]
-* Portfolio:(https://abhithakur-portfolio.netlify.app/)
+- **Name:** Abhishek Thakur  
+- **Email:** [abhishekthakur202398@gmail.com](mailto:abhishekthakur202398@gmail.com)  
+- **GitHub:** [github.com/abhithakjutre](https://github.com/abhithakjutre)  
+- **Portfolio:** [abhithakur-portfolio.netlify.app](https://abhithakur-portfolio.netlify.app/)
 
 **📝 License**
 ------------
